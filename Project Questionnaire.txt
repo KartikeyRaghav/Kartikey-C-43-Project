@@ -35,3 +35,11 @@ Please check it.
 
 8. How do you plan to make your game engaging? 
 The game can be engaging beacuse the player rolls the dice till he/she wins. And if the player wins he/she will again play it in the greed of winnning again.
+
+The Player can play this game on any device PC, android phone, iPhone, macBook, etc.
+
+I would like to chose VS Code to do this project as it is easy to understand the code on this and I can also add different libraries if I want to.
+
+The libraries that I want are p5.js, p5.play.js, ps.dom.min.js, p5.sound.min.js, p5.min.js, etc. I have collected all these libraries in my PC.
+
+I also need different sound effectss such as notification, ding, click, etc. I have also collected them.
