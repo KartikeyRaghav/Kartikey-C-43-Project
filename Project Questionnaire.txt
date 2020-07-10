@@ -8,7 +8,9 @@ The title of my project is 'JS Ludo Game'
 The goal of the game is to remove lonliness from the people. People can play this game and can be relaxed.
 
 3.	Write a brief story of your game?
-This game is related to the ludo game that everyone used to play in his/her childhood. People can play this game with each other and try to win this game. This game also tells that there can be only two outcomes of the game. Either the plater will win or he will lose. Similarly the life also has only two outcomes, either you suceed or you fail. Failure doesn't mean the end of life. You must again get up and try to suceed in your life.
+This game is related to the ludo game that everyone used to play in his/her childhood. People can play this game with each other and try to win this game. This game also tells
+that there can be only two outcomes of the game. Either the plater will win or he will lose. Similarly the life also has only two outcomes, either you suceed or you fail. 
+Failure doesn't mean the end of life. You must again get up and try to suceed in your life.
 
 4.	Which are the playing characters of this game? 
 ●	Playing characters are the ones which respond to the user based on the input from the user
